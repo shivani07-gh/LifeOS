@@ -207,12 +207,6 @@ The system is evaluated using:
 
 ---
 
-## 📸 Screenshots
-
-> Add UI screenshots here after implementation.
-
----
-
 ## 👥 Team NAV-SMFS
 
 Building trustworthy AI systems for detecting synthetic media and preserving digital authenticity.
