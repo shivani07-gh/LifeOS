@@ -287,4 +287,6 @@ The long-term vision is to build a scalable platform that evolves from a persona
 
 **Shivani Barot**
 
+**Prinkesh Jha**
+
 > *"Don't just manage your life. Build a system that understands it."*
